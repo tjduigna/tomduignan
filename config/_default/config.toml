@@ -1,10 +1,10 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "https://tomduignan.com"
+title = "Tom Duignan"
 theme = "zzo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 summaryLength = 70
 buildFuture = true
